@@ -1,0 +1,676 @@
+/**
+	THEME COLORS:
+	#1 background-color: #111
+	#2 navbar-color: #202020
+	#3 text-color-primary: #ccc
+	#4 text-color-secondary: #ccc
+	#5 text-color-tetriary: #ccc
+	#6 button-background-color: #ec5252
+	#7 button-background-color-hover: #992337
+	#8 button-color: #fff
+	#9 button-color-hover: #fff
+	#10 border-color: #7d8080 
+
+	#11 navbar-color: #202020 ?
+
+	.btn-primary {
+		color: #fff;
+		background-color: #ec5252;
+		border: 1px solid transparent;
+	}
+
+	.btn-primary:hover {
+		color: #fff;
+		background-color: #992337;
+		border-color: transparent;
+	}
+	
+	https://www.udemy.com/staticx/udemy/images/v6/logo-coral-light.svg
+
+	//BAD BELOW
+	.btn-default {
+    color: #FFF;
+    background-color: #0f7c90;
+    border-color: rgba(0, 0, 0, .2);
+	}
+	.btn:focus, .btn:focus, .btn:hover {
+    color: #0f7c90;
+    background-color: #FFF;
+	}
+**/
+
+/* MISC STYLES */
+.udlite-search-form-autocomplete .udlite-search-form-autocomplete-suggestions {
+	background: #101010;
+	border: 1px solid #7d8080;
+}
+.btn-default {
+	color: #fff;
+	background-color: #ec5252;
+	border: 1px solid transparent;
+}
+.btn-default:hover {
+	color: #fff;
+	background-color: #992337;
+	border-color: transparent;
+}
+/* TITLE SCREEN START */
+.udlite-header .header--flex-middle--2Xqjv .header--logo--bdAod img {
+	width: 0;
+	height: 0;
+	padding: 16px 55px 16px 55px;
+	background: url('https://www.udemy.com/staticx/udemy/images/v6/logo-coral-light.svg');
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+.udlite-header .udlite-avatar-image {
+	border: none;
+}
+.udlite-header .header--logo--bdAod {
+	margin-left: 10px;
+	padding-right: 0;
+}
+.udlite-header .header--search-bar--1_mS0 {
+	border-color: #7d8080;
+}
+.udlite-header .try-ufb-dropdown--headline--3X0xK,
+.udlite-header .instructor-dropdown--headline--2fy9o {
+	color: #ccc;
+}
+.header--flex-middle--2Xqjv {
+	background-color: #202020;
+}
+.js-header-search-field {
+	margin-right: 4rem;
+}
+.header--dropdown-button-text--2jtIM {
+	color: #fff;
+}
+.header--menu--3jznE {
+	background-color: #202020;
+}
+.browse-nav--nav-container--2QiNy {
+	background-color: #202020;
+}
+.shopping-items--footer--xKS-H {
+	background-color: #202020;
+}
+.notification-items--footer--dTomb {
+	background-color: #202020;
+}
+.item-card--item-card--2STMu {
+	color: #ccc !important;
+}
+.course-card--course-title--2f7tE {
+	color: #ccc;
+}
+.user-profile-dropdown--user-section--2TYz1 {
+	color: #ccc;
+}
+.udlite-heading-md {
+	color: #ccc;
+}
+.udlite-footer .footer-section {
+	border-color: #353535;
+	background-color: #111;
+}
+.udlite-block-list .udlite-block-list-item-neutral {
+	color: #fff;
+}
+.udlite-search-form-autocomplete-input-group-reversed .udlite-search-form-autocomplete-input {
+	padding-left: 1.4rem;
+	background-color: #f4f4f4;
+	color: #73726c;
+}
+.udlite-search-form-autocomplete-input-group-reversed .udlite-search-form-autocomplete-input::placeholder {
+	color: #73726c;
+}
+.udlite-btn-secondary {
+	background-color: #0f7c90;
+	border: 1px solid #0f7c90;
+	color: #fff;
+}
+.udlite-btn-secondary:active {
+	background-color: #0f7c90;
+}
+.udlite-btn-ghost:active {
+	background-color: transparent;
+}
+.udlite-btn:hover {
+	color: #0f7c90;
+	background-color: #fff;
+}
+.udlite-btn:focus {
+	color: #0f7c90;
+}
+.header--dropdown-button--1BviY:hover,
+.header--dropdown-button--1BviY:focus,
+.header--search-bar--1_mS0 .udlite-btn:hover {
+	color: #0f7c90;
+	background-color: transparent;
+}
+.course-progress-card--course-progress-card--X1i56,
+.link-tag--tag--2dU-x,
+.course-card--image-wrapper--Sxd90 {
+	border-color: #0f8ea5;
+}
+/* TITLE SCREEN END */
+
+/* COURSE PURCAHSE SCREEN START */
+.sidebar-container--purchase-section--17KRp,
+.sidebar-container--content-group--1upV8 {
+	background-color: #202020;
+}
+.sidebar-container--content--gsvyJ {
+	border-bottom: none;
+}
+.price-text--price-part--Tu6MH {
+	color: #ccc;
+}
+.instructor-links--names--7UPZj {
+	display: inline;
+	vertical-align: middle;
+}
+.featured-review--background-wrapper--FamGn {
+	background-color: #202020;
+}
+.helpful-button--icon-button-wrapper--1H_4e {
+	background-color: #ffe798;
+	border: none;
+}
+.helpful-button--icon--2CtKB {
+	color: #593d00;
+}
+.udlite-btn.udlite-btn-small.udlite-btn-ghost.udlite-heading-sm.udlite-text-sm.report-abuse--report-abuse-button--J2v1l {
+	color: #ccc;
+	background-color: transparent;
+}
+.styles--description--3y4KY .show-more--show-more--3ve3e,
+.styles--description--3y4KY .show-more--show-less--3eSCX,
+.show-more--show-more--3ve3e,
+.show-more--show-less--3eSCX {
+	color: #ccc;
+}
+.udlite-btn:hover .show-more--show-more--3ve3e,
+.udlite-btn:hover .show-more--show-less--3eSCX {
+	color: #585858;
+}
+.what-you-will-learn--what-will-you-learn--mnJ5T .udlite-btn {
+	color: #ccc;
+}
+.what-you-will-learn--what-will-you-learn--mnJ5T .udlite-btn:hover {
+	color: #ccc;
+	background-color: transparent;
+}
+.section--lecture-list--2cH4T .udlite-btn:hover {
+	background-color: #1b1b1b;
+}
+.styles--description--3y4KY .udlite-btn:hover {
+	background-color: transparent;
+}
+.paid-course-landing-page__container:not(.free-clp-page)
+	.buy-box
+	.buy-box__element--buy-button
+	.udlite-btn:hover {
+	background-color: #fff;
+}
+.caption {
+	color: #ccc;
+}
+.slider-menu {
+	background-color: #202020;
+}
+/* COURSE PURCAHSE SCREEN END */
+
+/* SHOOPING CART SCREEN START */
+.ud-component--cart--app .style--jumbotron-header-bar--cart--3GsX0 {
+	background: #292929;
+}
+.ud-component--cart--app .breadcrumb a .udi {
+	color: #ec5252;
+}
+.ud-component--cart--app .btn-primary:hover {
+	color: #fff;
+	background-color: #992337;
+	border-color: transparent;
+}
+.ud-component--cart--app .styles--sc-shopping-list__items--h-1Zf .styles--sc-shopping-list__item--26SKJ {
+	box-shadow: 0 0 2px #dedfe0;
+	border-top: none;
+}
+.ud-component--cart--app
+	.styles--sc-shopping-list__items--h-1Zf
+	.styles--sc-shopping-list__item--26SKJ:last-child {
+	border-bottom: none;
+}
+.ud-component--cart--app .styles--sc-card__title--L-qWv {
+	color: #ccc;
+}
+.ud-component--cart--app .merchandising-course-card--course-title--2Ob4m {
+	color: #ccc;
+}
+.ud-component--cart--app .price-text--base-price__container--Xwk8v .price-text--base-price__discount--1J7vF,
+.ud-component--cart--app .price-text--base-price__container--Xwk8v .price-text--base-price__original--98W0j {
+	color: #ccc;
+}
+.ud-component--cart--app .styles--sc-card__image--lg--J8lG8 {
+	border-radius: 0.25rem;
+}
+.ud-component--cart--app .merchandising-course-card--card--2UfMa .merchandising-course-card--mask--2-b-d {
+	border-radius: 0.25rem;
+}
+.ud-component--cart--app hr {
+	border-color: #7d8080;
+}
+.ud-component--cart--app a {
+	color: #ec5252;
+}
+.ud-component--cart--app a:hover {
+	color: #992337;
+}
+.ud-component--cart--app .unit-title--title-box--3tVMv h2 {
+	color: #ccc !important;
+}
+.footer-v6 a {
+	color: #ec5252;
+}
+.footer-v6 .btn-default {
+	color: #fff;
+	background-color: #ec5252;
+	border: 1px solid transparent;
+}
+.footer-v6 .btn-default:hover {
+	color: #fff;
+	background-color: #992337;
+	border-color: transparent;
+}
+.footer-v6 .footer__inst-banner .inst-banner__heading {
+	color: #ccc;
+}
+.footer-v6 .footer__inst-banner .inst-banner__btn {
+	margin-top: 1.25rem;
+}
+/* SHOPPING CART SCREEN END */
+
+/* MY COURSES/WISH LIST SCREEN START */
+
+/* MY COURSES/WISH LIST SCREEN END */
+
+/* PROFILE SCREEN START */
+
+/* PROFILE SCREEN END */
+
+/* NOTIFICATIONS SCREEN START */
+
+/* NOTIFICATIONS SCREEN END */
+
+/* COURSE SCREEN START */
+
+/* OVERVIEW */
+.ud-component--course-taking--app .instructor-profile--social-profile-btn--fs2ve {
+	background: #ec5252;
+	color: #fff;
+}
+.ud-component--course-taking--app .instructor-profile--social-profile-btn--fs2ve:hover {
+	background: #992337;
+}
+/* ANNOUNCEMENTS */
+.ud-component--course-taking--app .comment--comment--160e1 {
+	background: none;
+}
+/* COURSE SCREEN END */
+
+/* OLD STYLE */
+.jumbotron-header-bar--tabs .nav-tabs > li.active > a {
+	border-bottom: 6px solid white;
+}
+.jumbotron-header-bar--tabs .nav-tabs > li > a {
+	border-bottom: 6px solid #666;
+}
+.badge {
+	color: black;
+}
+html,
+body {
+	background-color: #111;
+	color: #ccc;
+	border-color: #333;
+}
+.c_quick-view-box--white .c_quick-view-box__top {
+	background-color: #222;
+}
+.c_quick-view-box--white .c_quick-view-box__bottom {
+	background: #222;
+}
+.c_header .dropdown__header {
+	color: #ccc;
+	background-color: #222;
+}
+.sc-dropdown__empty-message {
+	background: #222;
+}
+.category-menu {
+	background-color: #111;
+}
+menu__link:hover {
+	color: #ccc;
+	background: #222;
+}
+.course-taking .course-dashboard__bottom .bottom__nav {
+	margin-bottom: 0;
+	border-bottom: 1px solid #333;
+	background-color: #222;
+}
+.c_user-notification .notification__item,
+.c_header .mycourses__item,
+.c_header .dropdown__footer {
+	background: #222;
+}
+.course-taking .course-dashboard__bottom .content__overview .recent-header,
+.course-taking .course-dashboard__bottom .content__overview .recent-footer {
+	background: #222;
+	border-bottom: 1px solid #444;
+}
+.view-more-container--view-more__button-container--gradient--CmaZZ.view-more-container--view-more__button-container--gradient-clp--1ed1p {
+	background: linear-gradient(#22222273, #333, #222);
+}
+.course-taking .lecture__item:hover .lecture__item__link .course-taking .message-container--nps__review,
+.styles--category--1AsdE:hover,
+.curriculum-wrapper .lecture-container,
+.course-taking .course-dashboard__bottom .content__questions question-title-form .ud-search,
+.panel,
+.component-thread-head {
+	background: #333;
+}
+.course-taking .course-dashboard__bottom .question-details {
+	background-color: #333;
+}
+.course-taking
+	.course-dashboard__bottom
+	.content__questions
+	.questions-panel__content__course-questions
+	.course-questions__question {
+	background-color: #333;
+	border-bottom: 2px solid #222;
+}
+.course-taking .course-dashboard__bottom .content__overview .recent-list:first-of-type,
+.course-taking .course-dashboard__bottom .content__overview .recent-list,
+.course-taking .curriculum-navigation__section,
+.c_header.c_header--v6 .dropdown--topics .dropdown__menu,
+.c_header.c_header--v6 .dropdown--topics .dropdown__menu--sub,
+.category-menu__item:hover,
+.btn-quaternary,
+.c_header.c_header--v6 .dropdown__menu,
+.styles--linkbar--azS2H,
+.course-taking .curriculum-navigation .lecture__resources .resources__link {
+	background: #222;
+}
+.c_header.c_header--v6 .dropdown__menu:before {
+	border-color: transparent transparent #222;
+}
+.c_header.c_header--v6 .dropdown__menu:after {
+	border-color: transparent transparent #333;
+}
+.styles--dropdown--29tlt .styles--dropdown__menu--20Bk-:after {
+	border-color: transparent transparent #333;
+}
+.styles--dropdown--29tlt .styles--dropdown__menu--20Bk-:before {
+	border-color: transparent transparent #222;
+}
+.c_header.c_header--v6 .dropdown__menu:before {
+	border-color: transparent transparent #222;
+}
+.c_header.c_header--v6 .dropdown--topics .dropdown__menu:after {
+	border-color: transparent transparent #333;
+}
+.js-wrapper-simple-collapse-more-btn {
+	background: linear-gradient(hsla(0, 0%, 100%, 0), #111, #111);
+}
+.view-more-container--view-more__button-container--gradient--CmaZZ {
+	background: linear-gradient(hsla(0, 0%, 100%, 0), #111, #111);
+}
+.curriculum-wrapper .section-container {
+	background: #222;
+	border: 1px solid #a1a7b3;
+}
+.curriculum-wrapper .lectures-container {
+	background-color: #333;
+}
+.instructor--instructor--2qudS .instructor--instructor__view-more-wrapper--w6L78 {
+	background: linear-gradient(hsla(0, 0%, 100%, 0), #111, #111);
+}
+.featured-review--featured-review--wtiLX .featured-review--featured-review__container--1U1cD,
+.modal-content {
+	background-color: #222;
+}
+.slider-list--course-nav-btn--1sFHw,
+.course-card--course-card__container--1udRO:hover,
+.more-courses-by-instructor--more-from-instructor--1XSm_ {
+	background-color: #333;
+}
+.footer-v6 footer,
+.pagination > li > a:hover,
+.search-result-page--panel--Efhm6,
+.fancybox-wrap .fancybox-skin .fancybox-outer .fancybox-inner,
+.notification-preferences--notification-option--1OD9J,
+.sc-wrapper .sc-card-box.active,
+.search-course-labels--related .search-course-labels__item,
+.channels.skin1 .btn-default,
+.search-course-labels--related .search-course-labels__item.all.active,
+.search-course-card--card__inner--1tkPf,
+.search-course-labels--carousel .search-course-labels__next-bt,
+.search-course-labels--carousel .search-course-labels__prev-bt,
+.channels.skin5 .btn-default {
+	background-color: #222;
+}
+.search-course-labels--carousel .search-course-labels__next-gradient {
+	background: linear-gradient(270deg, #111 20%, #1111111c);
+}
+.search-course-labels--carousel .search-course-labels__prev-gradient {
+	background: linear-gradient(90deg, #111 20%, hsla(0, 0%, 0%, 0.58));
+}
+.c_link-bar--channel .c_link-bar__sub-cat:hover,
+.base-thread-item--message-thread--2pjVx.base-thread-item--active--1LVBL
+	.base-thread-item--message-thread__container--2sOg4,
+.base-thread-item--message-thread--2pjVx:hover .base-thread-item--message-thread__container--2sOg4,
+.checkbox-inline:not(.checkbox-slide):not(.checkbox-button).boxed:not(.disabled) > label:hover,
+.checkbox:not(.checkbox-slide):not(.checkbox-button).boxed:not(.disabled) > label:hover {
+	background: #333;
+}
+.c_header.c_header--v6 .c_quick-search__input,
+.c_quick-search__input,
+.c_header.c_header--v6 .c_quick-search__input:focus {
+	background-color: #222;
+}
+.c_quick-search__btn {
+	background: #444;
+}
+.search-result-page--search-result-container--1QJaS,
+.pagination > li > a,
+.pagination > li > span,
+.loginbox-v4__header,
+.loginbox-v4 .social-btn--google,
+.main-route--user-messaging--3ak_b,
+.user-auto-complete--user-messaging__auto_complete--3ak2a .autocomplete-light-widget > input,
+.styles--sc-wrapper--3ncS2,
+.styles--sc-wrapper--3ncS2 .styles--sc-checkout-pane--71SP_,
+.sc-wrapper,
+.channels--all-courses {
+	background: #111;
+}
+.side-nav li.on a,
+.side-nav li:hover a {
+	background-color: #333;
+}
+#edit-template .form-wrapper {
+	background: #111;
+	border: 0 solid #dedfe0;
+}
+.search-result-page--top--gc3uL,
+.main-route--user-messaging__right--27tZ-,
+.side-nav {
+	background: #222;
+}
+.side-nav {
+	box-shadow: inset 0px 0px #dedfe0, inset 0 0px #dedfe0;
+}
+.search-result-page--refund-policy-notification-container--2qho2 {
+	border: 1px solid #a1a7b3;
+	background-color: #222;
+}
+.c_header.c_header--v6 .dropdown__menu-list--bottom {
+	background-color: #222;
+}
+.right-col__module,
+.styles--dropdown--29tlt .styles--dropdown__menu--20Bk-,
+.popover {
+	background-color: #333;
+}
+.review-summary-widget--rate-gauge--bg--1MIWi,
+.c_topic--border .c_topic {
+	background: #222;
+}
+.merchandising-course-card--card--18b3i .merchandising-course-card--mask--22Fbx,
+.course-taking .iconed-btn,
+.form-control,
+.styles--sc-shopping-list__items--h-1Zf.styles--sc-shopping-list__items--dropdown--eop-D
+	.styles--sc-shopping-list__item--26SKJ:hover,
+.styles--dropdown__footer--2q66h {
+	background: #222;
+}
+.dropdown .dropdown-menu-link:hover,
+.dropdown .dropdown-menu > li > a:hover,
+.dropup .dropdown-menu-link:hover,
+.dropup .dropdown-menu > li > a:hover {
+	background-color: #333;
+}
+.course-taking .curriculum-navigation .lecture__resources {
+	background-color: #444;
+}
+.input-group-addon:first-child,
+.input-group-btn:first-child > .btn,
+.input-group-btn:first-child > .btn-group > .btn,
+.input-group-btn:first-child > .dropdown-toggle,
+.input-group-btn:last-child > .btn-group:not(:last-child) > .btn,
+.input-group-btn:last-child > .btn:not(:last-child):not(.dropdown-toggle),
+.input-group .form-control:first-child {
+	border-bottom-right-radius: 0;
+	border-top-right-radius: 0;
+	background: #333;
+}
+.merchandising-course-card--card--2UfMa .merchandising-course-card--mask--2-b-d {
+	background: #222;
+}
+.course-taking .curriculum-navigation {
+	background: #111;
+}
+.discovery-units,
+.wrapper-left,
+.dropdown-menu {
+	border-right: 1px solid #eab1b1;
+	background-color: #222;
+	background: #0f0e0e;
+}
+.channels h2 {
+	color: #ccc;
+}
+.c_full-width-grid .channels .channel-courses-list .course-box .box-second-row .title {
+	background: #222;
+}
+.c_link-bar .c_link-bar__link:hover {
+	background: #222;
+}
+.c_header .menu__link a {
+	color: #ccc;
+	background: #222;
+}
+.c_full-width-grid .channels .channel-courses-list .course-box .mask {
+	color: #ccc;
+	font-size: small;
+	background: #222;
+}
+.dashboard-v39,
+.user-course-progress .progress {
+	background-color: #110e0b;
+}
+.main-middle {
+	background: #111;
+	border-top: 1px solid #5c2b2b;
+}
+.one-col-landing {
+	background: #070b2a;
+}
+.also-viewed {
+	background: #090808;
+}
+.section-title {
+	border-bottom: 1px solid #eab1b1;
+	background-color: #2a3347;
+}
+.nav-tabs > li > a {
+	color: rgba(100, 177, 54, 0.6);
+}
+.c_header .dropdown__main-link {
+	color: rgba(202, 225, 255, 0.6);
+	background: #111;
+}
+.what-you-get {
+	background-color: #222;
+	border: 1px solid #333;
+}
+.js-simple-collapse-more-btn {
+	background: #111;
+}
+.recommendations__content {
+	background-color: #111;
+	background-size: cover;
+	padding: 10px 15px 15px;
+}
+.curriculum-v3-wrapper .section-container {
+	background: #222;
+	border: 1px solid #333;
+}
+.curriculum-v3-wrapper .lectures-container {
+	background-color: #222;
+}
+.right-col__content {
+	background-color: #222;
+	border: 1px solid #333;
+}
+.c_link-bar {
+	background: #111;
+	border-bottom: 1px solid #444;
+	border-top: 1px solid #444;
+}
+.c_header__logo-container,
+.footer-v6 .footer__inst-banner {
+	background: #111;
+}
+.c_link-bar a {
+	color: #ccc;
+}
+.card {
+	box-shadow: 0 2px 2px #9f95a8;
+	background-color: #222;
+}
+.course-box .mask {
+	color: #d2d5b5;
+}
+.course-box .inst-name {
+	color: #7895ea;
+}
+.cats-dropdown .dropdown-menu a {
+	color: #8fa7c2;
+}
+.user-course-progress .progress {
+	background-color: #4e6078;
+}
+.header-v4 {
+	background: #222;
+}
+.channels.skin6 .channel-head {
+	background: #222;
+}
+.featured-courses {
+	background: #222;
+}
